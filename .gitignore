@@ -1,0 +1,4 @@
+*.class
+*.cache
+TheGatherer/target/**
+.DS_STORE
